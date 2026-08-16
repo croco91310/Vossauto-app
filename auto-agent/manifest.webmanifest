@@ -1,0 +1,8 @@
+{
+  "name":"AUTO//AGENT",
+  "short_name":"AUTOAGENT",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#090b0f",
+  "theme_color":"#0b0d12"
+}
